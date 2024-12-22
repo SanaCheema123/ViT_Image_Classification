@@ -4,8 +4,8 @@ The Transformer is a deep learning model introduced in the paper "Attention is A
 
 # Step-by-Step Procedure to Translate English to French using a Transformer
 Here’s how a Transformer model can be used to translate an English sentence to French:
-Preprocessing
-Encoder
+Preprocessing, 
+Encoder,
 Detokenization
 
 # English: "Sana Cheema here, I am a Python Developer and Generative AI expert."
